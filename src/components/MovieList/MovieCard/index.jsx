@@ -44,7 +44,6 @@ button {
     border-radius: 2rem;
     background-color: #FFBB38;
     padding: .4rem;
-    width: 4.5rem;
     color: #000000;
     font-weight: bolder;
 }

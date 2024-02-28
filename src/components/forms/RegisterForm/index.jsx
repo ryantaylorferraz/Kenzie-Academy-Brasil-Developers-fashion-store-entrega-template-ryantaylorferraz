@@ -72,6 +72,10 @@ justify-content: end;
 align-items: center;
 /* height: 4rem; */
 padding-top: 1.3rem;
+
+@media(max-width: 750px) {
+    justify-content: center;
+}
 button {
     padding-block: .7rem;
     width: 9rem;
@@ -79,6 +83,7 @@ button {
     border-radius: 2rem;
     background-color: #FFBB38;
     font-weight: 600;
+
 }
 
 `
